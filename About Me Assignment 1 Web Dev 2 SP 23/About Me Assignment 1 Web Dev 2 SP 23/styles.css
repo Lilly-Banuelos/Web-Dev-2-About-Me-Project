@@ -1,0 +1,85 @@
+/*
+    Name: Lilly Banuelos
+    Date: 01/17/23
+    Program Purpose: This is an introductory 
+    website about myself for the first class assignment.
+*/
+
+body {
+    background-image: url(background\ op\ 1.webp);
+    background-size: cover;
+}
+
+.container {
+    background-color: white;
+    text-align: center;
+    margin-top: 1%;
+}
+
+.myFooter {
+    text-align: right;
+}
+
+#img1 {
+    width: 50%;
+    
+}
+
+.carousel {
+    width: 70%;
+    margin-left: 15%;
+}
+
+#backflipImg {
+    width: 74%;
+}
+
+.centerStuff {
+    width: 90%;
+    margin-left: 5%;
+}
+
+#id2 {
+    width: 61%;
+    margin-left: 19.5%;
+}
+
+.centerText {
+    width: 83%;
+    margin-left: 8.5%;
+}
+
+.nav-item {
+    color: black;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+li.nav-item a {
+    color: rgb(42, 138, 228);
+}
+
+li.nav-item a:visited {
+    color: rgb(9, 187, 65);
+}
+
+li.nav-item a:hover {
+    color: rgb(78, 185, 235);
+}
+
+li.nav-item a:active {
+    text-decoration-style: none;
+}
+
+#goalsPic2 {
+    width: 98%;
+}
+
+#thankYou {
+    width: 98%;
+    margin-left: 1%;
+}
